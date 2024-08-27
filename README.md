@@ -11,7 +11,7 @@ _**Complete Tasks:** Strike through tasks to indicate completion._<br />
 
 
 # Technologies Used
-**HTML**: Provides the structure of the application.< br />
+**HTML**: Provides the structure of the application.<br />
 **CSS**: Styles the application for a clean and user-friendly interface.<br />
 **JavaScript**: Handles the app's interactive functionality, including adding, canceling, and marking tasks.<br />
 
